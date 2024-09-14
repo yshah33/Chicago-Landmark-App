@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="chi_landmark">
+        <item>Millennium Park</item>
+        <item>Buckingham Fountain</item>
+        <item>Chicago Riverwalk</item>
+        <item>The Museum of Science and Industry</item>
+        <item>Willis Tower</item>
+        <item>Lincoln Park Zoo</item>
+    </string-array>
+    <string-array name="web_page">
+        <item>https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html</item>
+        <item>https://loopchicago.com/listings/buckingham-fountain</item>
+        <item>https://www.chicago.gov/city/en/sites/chicagoriverwalk/home.html.html</item>
+        <item>https://www.msichicago.org/</item>
+        <item>https://www.willistower.com/</item>
+        <item>https://www.lpzoo.org/</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">project3</string>
+    <style name="Base.Theme.Project3" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Project3" parent="Base.Theme.Project3"/>
+</resources>
